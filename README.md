@@ -1,7 +1,11 @@
 # ModellerNotebooks
 
-Run Modeller for Protein Modelling using Python and Jupyter Notebooks
+Run Modeller for Protein Modelling using Python and Jupyter Notebooks.
+
 Run Modeller, Generate plots, Visualize 3D models of proteins within Jupyter Notebook
+
+The Notebook includes both scripts as well as sample output, so kindly download and load to Jupyter Notebook.
+
 
 ### Packages required
 modeller
