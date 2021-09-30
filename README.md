@@ -13,6 +13,7 @@ numpy
 matplotlib
 pylab
 nglview
+RamchandranDraw
 
 ### Notebooks
 
